@@ -64,7 +64,7 @@ A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detect
 
 ## Considerações Técnicas
 
-- Todas as execuções foram realizadas em ambiente local com CPU (Intel i5, 8 GB RAM), sem acesso a GPU.
+- Todas as execuções foram realizadas em ambiente local com CPU (Intel i3, 8 GB RAM), sem acesso a GPU.
 - O conjunto de dados de imagens foi reduzido em aproximadamente 50% para viabilizar o treinamento dos modelos de Deep Learning.
 - Todas as adaptações feitas no código foram documentadas e justificadas no relatório final.
 
