@@ -5,13 +5,9 @@ Este repositório contém o código-fonte, resultados e análises do miniprojeto
 A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detection: A Machine and Deep Learning Based Hybrid Model” (Uddin et al., 2025), com adaptações para execução em ambiente computacional acadêmico.
 
 ---
-## Equipe
+## Autor
 
 - Maria Clara Soares  
-- Lucas Gurgel  
-- Igor Carvalheira  
-- Marco Antônio  
-- Pedro Filipe  
 
 **Orientador:** Prof. Francisco Madeiro
 
@@ -69,7 +65,8 @@ A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detect
 - Todas as adaptações feitas no código foram documentadas e justificadas no relatório final.
 
 ---
-
+## Link para DataSet!
+https://drive.google.com/drive/folders/1SWqoTEbu9_8MnbO6_Zx_5gXnh8R-D0s-?usp=sharing
 ## Licença
 
 Este repositório tem fins exclusivamente acadêmicos. O uso dos dados, códigos e análises deve citar o artigo original como referência primária.
