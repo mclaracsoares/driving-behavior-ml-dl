@@ -53,7 +53,6 @@ A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detect
 - O conjunto de dados de imagens foi reduzido em aproximadamente 50% para viabilizar o treinamento dos modelos de Deep Learning.
 - Todas as adaptações feitas no código foram documentadas e justificadas no relatório final.
 
----
 ## Link para DataSet!
 https://drive.google.com/drive/folders/1SWqoTEbu9_8MnbO6_Zx_5gXnh8R-D0s-?usp=sharing
 ## Licença
