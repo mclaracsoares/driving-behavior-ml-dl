@@ -4,14 +4,11 @@ Este repositório contém o código-fonte, resultados e análises do miniprojeto
 
 A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detection: A Machine and Deep Learning Based Hybrid Model” (Uddin et al., 2025), com adaptações para execução em ambiente computacional acadêmico.
 
----
 ## Autor
 
 - Maria Clara Soares  
 
 **Orientador:** Prof. Francisco Madeiro
-
----
 
 ## Artigo de Referência
 
@@ -21,8 +18,6 @@ A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detect
 **Ano:** 2025  
 **DOI:** https://doi.org/10.1007/s13177-025-00471-2
 
----
-
 ## Tecnologias e Bibliotecas
 
 - Python 3.10  
@@ -30,8 +25,6 @@ A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detect
 - Scikit-learn  
 - TensorFlow / Keras  
 - Matplotlib, Seaborn
-
----
 
 ## Modelos Utilizados
 
@@ -48,15 +41,11 @@ A proposta foi baseada no artigo científico “Abnormal Driving Behavior Detect
 - ResNet50 (pré-treinada com fine-tuning)
 - EfficientNetB6 (não treinada por limitação computacional)
 
----
-
 ## Resultados
 
 - O modelo Random Forest obteve o melhor desempenho geral, com acurácia de aproximadamente 67%.
 - A CNN Base, embora funcional, apresentou acurácia inferior (57%) e viés para a classe majoritária.
 - O treinamento da ResNet50 foi interrompido na segunda época por inviabilidade de tempo em CPU, mesmo após diversas otimizações.
-
----
 
 ## Considerações Técnicas
 
